@@ -7,3 +7,5 @@
 <p>-HTML</p>
 <p>-CSS</p>
 <p>-JavaScript</p>
+<br>
+<img src="https://github.com/BrunoCarOliveira/Starbucks/blob/main/starbucks-img.PNG">
